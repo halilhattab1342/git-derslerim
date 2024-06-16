@@ -1,0 +1,1 @@
+!*** yaparak harici bırakabiliriz. .gitignore dosyasında klasör/* yaprak hepsini ayarlarız demek.

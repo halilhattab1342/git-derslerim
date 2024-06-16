@@ -1,1 +1,3 @@
 database.json
+html/*
+!html/index.html
